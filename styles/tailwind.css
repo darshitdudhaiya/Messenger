@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: "Rubik", sans-serif;
+}
+body {
+  background-color: white;
+}
+
+li.custom-list:before {
+  content: "\2022"; /* bullet point, for screen readers */
+  text-indent: -9999999px; /* move the bullet point out of sight */
+  width: 0.4em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 0.4em 0.7em;
+  background-position: 0 0.3em;
+  font-size: 300%;
+  top: -0.35em;
+  position: absolute;
+  display: block;
+}
+li.circle-check:before {
+  background-image: url("/assets/Icon/checklist.svg");
+  left: -0.7em;
+  top: -0.4em;
+}
+li.check:before {
+  left: -0.5em;
+  background-image: url("/assets/Icon/jam_check.svg");
+  top: -0.5em;
+  font-size: 400%;
+}
+/* Slideshow */
+.slick-dots li {
+  display:  inline-block;
+}
+.slick-dots span {
+  background-color: #DDDDDD;
+}
+.slick-dots .slick-active span {
+  background-color: #F53855;
+ 
+}
