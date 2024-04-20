@@ -1,40 +1,40 @@
-# [Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) - Free Landingpage Template Apps
+# Cloud Messenger - Your Secure Instant Messaging Platform
 
-Tailwind VPN Landingpage is an open source, apps landing page template for [Tailwind CSS](https://tailwindcss.com/) and[ NextJS](nextjs.org/) coded by [Faldi](twitter.com/f2aldi) and design from [Didi](https://twitter.com/didiikurniawann).
+Welcome to Cloud Messenger! This Next.js application offers a secure and feature-rich instant messaging platform, allowing you to communicate with friends, family, and colleagues in real-time. With advanced encryption and a user-friendly interface, Cloud Messenger ensures that your conversations remain private and accessible whenever you need them.
 
-![Landing Page](./landingpage.png)
+## Project Details
 
-## Getting Started
+This project repository serves as the Messenger. Here, you can find information about our database schema, Next.js components, authentication mechanisms, and more.
 
-Choose one of the following options to get started:
+## Features
 
-- [Download the latest release](https://github.com/naufaldi/next-landing-vpn/archive/main.zip)
-- Clone the repo: `git clone https://github.com/naufaldi/next-landing-vpn.git`
-- Fork the repo
+- **Secure Messaging:** End-to-end encryption ensures that your conversations are private and secure.
+- **Real-Time Chat:** Instant messaging functionality for seamless communication in real-time.
+- **Group Chats:** Create and participate in group conversations with multiple participants.
+- **Multimedia Sharing:** Share text messages, images, videos, and files with ease.
+- **Message History:** Access and search your message history to find important information.
+- **Notifications:** Receive notifications for new messages and updates to stay informed.
+- **User Profiles:** Customize your profile with a profile picture, status, and other personal details.
+- **Customization:** Customize your chat experience with themes, emojis, and other personalization options.
 
-## About the Template
+## Technologies Used
 
-- Template building using NextJS Version 10
-- Tailwind v2.0
+- **Next.js:** React framework for building server-side rendered and statically generated applications.
+- **MySQL:** Relational database management system for storing and retrieving data.
+- **Bootstrap:** Frontend framework for responsive and mobile-first design.
+- **jQuery:** JavaScript library for DOM manipulation and event handling.
+- **Ajax:** Asynchronous JavaScript and XML for making asynchronous HTTP requests.
 
-## Feature Template
+## Contributing
 
-- Using [NextJS Image](https://nextjs.org/docs/api-reference/next/image) for Image Optimization
-- Slider using [React Slick](https://react-slick.neostack.com/docs/api)
-- Smooth Scrolling and Active menu using [React Scroll](https://www.npmjs.com/package/react-scroll)
+We welcome contributions from the community to enhance Cloud Messenger and make it even more powerful and user-friendly. Whether it's adding new features, improving existing functionality, or fixing bugs, your contributions are valuable to us.
 
-## Bugs and Issues
+### How to Contribute
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/naufaldi/next-landing-vpn/issues/new) here on GitHub.
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Create a new Pull Request.
 
-## Creator
 
-[Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) was coded and modified by and is maintained by **[me](https://github.com/naufaldi/)**, and dekstop design by [Didi Kurniawan](https://twitter.com/didiikurniawann)
-
-## Copyright and License
-
-Code released under the MIT license.
-
-## To Do List Add Feature
-
-- [ ] Animation using Framer Motion
